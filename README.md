@@ -72,4 +72,4 @@ Use of Git webhooks and pull changes automatically into system (Need to analysis
 
 
 How to push updated rules into rule decision service (RDS)
-![Uploading image.png…]()
+https://springbootdev.com/2018/07/21/spring-cloud-config-using-git-webhook-to-auto-refresh-the-config-changes-with-spring-cloud-stream-spring-cloud-bus-and-rabbitmq-part-3/
